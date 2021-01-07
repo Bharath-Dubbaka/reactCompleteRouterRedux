@@ -1,3 +1,11 @@
+About: This project by made with a view of learning the basic of redux router etc, inspired by Youtube creator 'NetNinja' to understand the concepts.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
