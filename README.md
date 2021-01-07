@@ -1,4 +1,4 @@
-About: This project by made with a view of learning the basic of redux router etc, inspired by Youtube creator 'NetNinja' to understand the concepts.
+About: This project by made with a view of learning the basic of redux router etc, inspired by Youtube creators to understand the concepts better.
 
 
 
